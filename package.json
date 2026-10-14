@@ -1,0 +1,25 @@
+{
+  "name": "how-ai-works",
+  "description": "A short, hands-on course on how modern AI works, with labs that run in the browser.",
+  "license": "MIT",
+  "repository": "github:Ilm-Alan/how-ai-works",
+  "homepage": "https://ilm-alan.github.io/how-ai-works/",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "bun --hot server.ts",
+    "build": "bun build ./src/index.html --outdir dist --minify",
+    "start": "NODE_ENV=production bun server.ts",
+    "check": "tsc --noEmit -p . && bun test"
+  },
+  "dependencies": {
+    "katex": "^0.19.0",
+    "marked": "^18.1.1",
+    "marked-katex-extension": "^5.1.13"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/katex": "^0.16.8",
+    "typescript": "^5"
+  }
+}

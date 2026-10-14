@@ -1,0 +1,23 @@
+// Original toy documents, not excerpts from crawled websites.
+export const documents = [
+  "A rain gauge collects water in a narrow cylinder. Read the scale at eye level each morning and empty the cylinder after recording the rainfall.",
+  "A rain gauge collects water in a narrow cylinder. Read the scale at eye level each evening and empty the cylinder after recording the rainfall.",
+  "A rain gauge collects water in a narrow cylinder. Read the scale at eye level each morning and empty the cylinder after recording the rainfall.",
+  "Compost needs air water and a mixture of green and brown material. Turn the pile regularly to keep oxygen moving through the decomposing leaves.",
+  "Compost needs air water and a mixture of green and brown material. Turn the pile weekly to keep oxygen moving through the decomposing leaves.",
+  "A bicycle chain transfers force from the pedals to the rear wheel. Clean the chain before adding lubricant and wipe away excess oil with a cloth.",
+  "A bicycle chain transfers force from the pedals to the rear wheel. Clean the chain before adding lubricant and wipe away excess oil with a rag.",
+  "Bread dough rises when yeast consumes sugars and releases carbon dioxide. A warm room speeds fermentation but excessive heat can damage the yeast cells.",
+  "Bread dough rises when yeast consumes sugars and releases carbon dioxide. A cool room slows fermentation but excessive heat can damage the yeast cells.",
+  "The library opens at nine on weekdays. Readers can borrow three books for two weeks and renew loans online unless another reader has reserved the book.",
+  "The library opens at ten on weekdays. Readers can borrow three books for two weeks and renew loans online unless another reader has reserved the book.",
+  "Mars has a thin atmosphere dominated by carbon dioxide. Its surface contains dusty plains impact craters and volcanoes formed during earlier geological periods.",
+  "A database index stores keys in a searchable structure. Queries can locate matching rows without scanning every record but updates must maintain the index.",
+  "Migrating birds use several navigation cues including stars landmarks and magnetic fields. Cloud cover can remove one cue without eliminating every source of directional information.",
+  "A violin string vibrates between the bridge and the finger pressing against the fingerboard. Shortening the vibrating length raises the pitch of the note.",
+  "Solar panels convert incoming light into electrical current. Shading one part of a panel can reduce output and the effect depends on the wiring arrangement.",
+  "Boil pasta in enough water to allow the pieces to move freely. Stir during the first minute and taste before draining to check the texture.",
+  "A river carries sediment downstream. Fine particles remain suspended longer than large stones and slower water deposits material along bends and floodplains.",
+  "Unit tests exercise small pieces of code with chosen inputs. A passing test establishes behavior for those cases rather than proving correctness for every possible input.",
+  "The museum displays maps from several centuries. Differences in coastlines reflect survey methods political boundaries and the purposes for which each map was drawn.",
+];
